@@ -59,3 +59,18 @@ Simple Code to manage student records for a school class (class 10). Records are
 - students.csv
   - Example / data file used for the code.
 
+##  Project Contributors
+| Name | Registration Number | Role |
+|------|---------------------|------|
+| **Mithul Ram Sundaresan** | 25BCE2031 | "Frontend" Development & Project Management |
+| **Divyam Kurkan** | 25BCE2041 | "Backend" Logic & Data Analysis |
+
+**Supervisor:** *Thirumoorthy K Sir*  
+**School of Computer Science and Engineering, VIT Vellore**
+
+## Conclusion
+Student-Record-Manager is a lightweight, easy-to-use Python CLI tool for managing class 10 student records using a CSV backend. It supports adding, viewing, updating, and deleting records and includes a simple analytics report to help summarize class performance. This project is intended for learning and small-class management; contributions, bug reports, and feature requests are welcome via issues or pull requests. Future improvements could include persistent database storage, automated tests, and a graphical or web-based interface.
+
+##  License
+This project is developed for academic and research purposes as part of the **BACSE101 – Problem Solving Using Python** course at **VIT University**.
+
