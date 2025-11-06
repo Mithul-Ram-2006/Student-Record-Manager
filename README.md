@@ -1,11 +1,11 @@
 # Student-Record-Manager
 
-Simple Code to manage student records for a school class (class 10). Records are stored in a single CSV file (students.csv). The code supports adding, viewing, updating, and deleting student records, plus a data-analytics report via the included analytics module i.e numpy and pandas.
+Simple Code to manage student records for a school class (class 10). Records are stored in a single CSV file (students.csv). The code supports adding, viewing, updating, and deleting student records, plus a data analytics report via the included analytics module, i.e, numpy and pandas.
 
 ## Features
 - Add new student records with validation (unique student_id, non-empty fields).
 - View a student's full record by student ID.
-- Update math, science and english grades (grades validated to be integers between 0 and 100).
+- Update math, science, and English grades (grades validated to be integers between 0 and 100).
 - Delete student records with confirmation.
 - Runs a school analytics report.
 
@@ -13,11 +13,11 @@ Simple Code to manage student records for a school class (class 10). Records are
 1. Requirements
    - Python 
    - Install modules pandas and numpy
-   - For installing the modules, open the terminal and then type pip install pandas followed by pip install numpy if already installed leave it
-   - After that save the 3 files (main.py , analytics.py , students.csv) in a seperate folder in your device
+   - For installing the modules, open the terminal and then type pip install pandas, followed by pip install numpy. If already installed, leave it
+   - After that, save the 3 files (main.py, analytics.py, students.csv) in a separate folder on your device
 2. Steps to run the File
-   - Open the folder in which the files are saved in your device
-   - Then right click and give open in terminal then type python main.py and then enter
+   - Open the folder in which the files are saved on your device
+   - Then right click and give open in terminal, then type python main.py and then enter
    - Now the code will run
 
 ## Usage
@@ -57,7 +57,7 @@ Simple Code to manage student records for a school class (class 10). Records are
   - Invoked via analytics.run_analytics_report() from the main menu.
   - (See analytics.py to review exactly which analytics are produced and how they are formatted.)
 - students.csv
-  - Example / data file used for the code.
+  - Example/data file used for the code.
 
 ##  Project Contributors
 | Name | Registration Number | Role |
@@ -66,7 +66,7 @@ Simple Code to manage student records for a school class (class 10). Records are
 | **Divyam Kurkan** | 25BCE2041 | Backend Developer (Part 1 - Read/Create) |
 | **Pratham Garg** | 25BCE2016 | Backend Developer (Part 1 - Update/Delete) |
 | **Devanupriy Jain** | 25BCE0991 | Data Analyst (Part 2) |
-| **Jaidev** | 25BCE2031 | Quality Assurance & Documentation |
+| **Jaidev A** | 25BCE0971 | Quality Assurance & Documentation |
 
 **Supervisor:** *Thirumoorthy K Sir*  
 **School of Computer Science and Engineering, VIT Vellore**
